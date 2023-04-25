@@ -1,4 +1,4 @@
-// Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее из этого списка.
+// Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее из этого списка.(третье)
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Random;
